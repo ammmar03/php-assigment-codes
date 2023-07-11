@@ -1,15 +1,13 @@
 <?php
-$var = 'PHP Tutorial';
+$t = 'vyara college';
 ?>
 <!DOCTYPE html>
 <html>
 <head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <title><?php echo $var; ?> - W3resource!</title>
+  <title>vyara college</title>
   </head>
   <body>
-  <h3><?php echo $var; ?></h3>
-  <p>PHP, an acronym for Hypertext Preprocessor, is a widely-used open source general-purpose scripting language.<br>It is a cross-platform, HTML embedded server-side scripting language and is especially suited for web development.</p>
-  <p><a href="https://www.w3resource.com/php/php-home.php">Go to the <?php echo $var; ?></a>.</p>
+  <h1>vyara college</h1>
+  <p><a href="https://www.google.com/">Go to the <?php echo $t; ?></a>.</p>
 </body>
 </html>
